@@ -1,0 +1,14 @@
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\bin\Debug\net8.0\diziler.exe
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\bin\Debug\net8.0\diziler.deps.json
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\bin\Debug\net8.0\diziler.runtimeconfig.json
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\bin\Debug\net8.0\diziler.dll
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\bin\Debug\net8.0\diziler.pdb
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\diziler.AssemblyInfo.cs
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\diziler.dll
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\refint\diziler.dll
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\diziler.pdb
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\diziler.genruntimeconfig.cache
+C:\Users\Omer\Desktop\Projeler\.net\patika\diziler\obj\Debug\net8.0\ref\diziler.dll
